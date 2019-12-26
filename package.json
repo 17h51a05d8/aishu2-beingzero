@@ -1,0 +1,23 @@
+{
+  "name": "aishu2-beingzero",
+  "version": "1.0.0",
+  "description": "MEAN FULL STACK DEV-WEEK2",
+  "main": "index.js",
+  "scripts": {
+     "start": "index.js" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/17h51a05d8/aishu2-beingzero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/17h51a05d8/aishu2-beingzero/issues"
+  },
+  "homepage": "https://github.com/17h51a05d8/aishu2-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
