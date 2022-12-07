@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/17h51a05d8/aishu2-beingzero#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
